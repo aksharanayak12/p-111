@@ -1,0 +1,12 @@
+.heading{
+    width:80%;
+    font-size:22px;
+}
+.nameofobjects{
+    color:maroon;
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height: 300px;
+}
